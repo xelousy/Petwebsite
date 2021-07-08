@@ -1,1 +1,15 @@
-h1{color: brown;}
+h1{
+    color:darkgray;
+    text-align: center;
+    background-color:black;;
+    
+}
+ul{
+    line-height: 40px;
+    font-style: italic;
+    font-size:large;
+
+}
+h1{
+    font-size: 70px;
+}
